@@ -8,3 +8,5 @@ Below is the step by step Data Analysis process performed in this project.
   1. Data Analysis 
   2. Data Cleaning
   3. Data Exploration/Visualisation
+  4. ML Models
+  5. Recommendations
